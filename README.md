@@ -1,16 +1,33 @@
-## Hi there 👋
+# Привет, меня зовут Андрей! 👋
+### Я Frontend разработчик из Липецка.  
 
-<!--
-**Tro48/Tro48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Мой стек:   
+##
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+##
 
-Here are some ideas to get you started:
+### Так же:
+##
+- Есть опыт работы с сборщиками проектов WebPack и Vite
+- Работа в системе контроля версий Git
+- Имею базовые знания ООП
+- Работа с Postman
+- Покрытие компонентов юнит тестами на Jest
+- Опыт работы с Node.js и фреймворком Electron: [Проект Sorttool](https://github.com/Tro48/sorttool)
+- Опыт коммандной работы над учебным проектом: [Проект по обмену навыками между пользователями (MVP) ](https://github.com/PM-YandexPracticum/SkillSwap_36_2)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+### Мои контакты для связи:
+
+[Telegram](https://t.me/trofimdev)   
+[Vk](https://vk.com/trofimdev)
+
+Сертификаты:
+- Яндекс Практикум [RU](./Сертификат_RU.jpg) | [EN](./Сertificate_ENG.jpg)
+
+##
