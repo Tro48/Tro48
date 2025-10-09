@@ -26,7 +26,9 @@
 
 [Telegram](https://t.me/trofimdev)   
 [Vk](https://vk.com/trofimdev)  
-[Почта ](trofimander48@yandex.ru)
+
+Почта:   
+trofimander48@yandex.ru
 
 Сертификаты:
 - Яндекс Практикум [RU](./Сертификат_RU.pdf) | [EN](./Сertificate_ENG.pdf)
