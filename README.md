@@ -24,8 +24,7 @@
 
 ### Мои контакты для связи:
 
-[Telegram](https://t.me/trofimdev)   
-[Vk](https://vk.com/trofimdev)  
+[Telegram](https://t.me/trofimdev)
 
 Почта:   
 trofimander48@yandex.ru
