@@ -32,3 +32,4 @@ trofimander48@yandex.ru
 Сертификаты:
 - Яндекс Практикум [RU](./Сертификат_RU.pdf) | [EN](./Сertificate_ENG.pdf)
 
+![Codewars](https://github.r2v.ch/codewars?user=Tro48)
