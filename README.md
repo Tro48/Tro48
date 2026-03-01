@@ -18,7 +18,6 @@
 - Работа с Postman
 - Покрытие компонентов юнит тестами на Jest
 - Опыт работы с Node.js и фреймворком Electron: [Проект Sorttool](https://github.com/Tro48/sorttool)
-- Опыт коммандной работы над учебным проектом: [Проект по обмену навыками между пользователями (MVP) ](https://github.com/PM-YandexPracticum/SkillSwap_36_2)
 
 ##
 
